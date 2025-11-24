@@ -1,2 +1,2 @@
 console.log("Hello")
-console.log("SINX")
+console.log("sayhi")
